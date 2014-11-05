@@ -1,6 +1,6 @@
 #!/bin/bash
 # encrypt_login_for_maxl.sh
-# Created by:  lucianoalves@oec.com.br 2013-04-18
+# Created by:  luciano.ventura@gmail.com 2013-04-18
 
 
 # return codes
